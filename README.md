@@ -1,7 +1,3 @@
-You are correct. For a GitHub repository, a `README.md` file should be professional and informative. I will provide the complete README file content using Markdown, following the format you provided, and removing all emojis to maintain a professional tone.
-
----
-
 # Refocus (CBT Terminal Assistant)
 
 ## Project Overview
@@ -33,8 +29,6 @@ To run Refocus, you need the following:
 ## 2. Setup and Installation
 
 ### A. Clone the Repository
-
-If your project is hosted on GitHub:
 
 ```bash
 git clone https://github.com/hibataimoor/refocus_ws/
@@ -86,7 +80,7 @@ The **Refocus** output will instantly appear in your terminal, providing a new, 
 
 ```
 ----------------------------------------
-✨ **REFOCUS: NEW PERSPECTIVE**
+ **REFOCUS: NEW PERSPECTIVE**
 Original Thought: 'I'm going to fail this exam, I'm just not smart enough.'
 Reframed: > The task feels difficult, but difficulty is not proof of inability. Focus on the next section you can study and commit 30 minutes to it.
 ----------------------------------------
